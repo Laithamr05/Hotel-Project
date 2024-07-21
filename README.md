@@ -1,2 +1,1 @@
-# Hotel-Project
-Java project for a hotel system
+#Laith Amr Projects
